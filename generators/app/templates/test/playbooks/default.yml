@@ -1,5 +1,5 @@
 ---
-- hosts: test-kitchen
-  remote_user: root
+- hosts: all
+  become: yes
   roles:
     - role: <%= props.name %>

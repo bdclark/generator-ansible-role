@@ -27,6 +27,11 @@ module.exports = yeoman.Base.extend({
       // store: true
     }, {
       type: 'input',
+      name: 'authorEmail',
+      message: 'Author E-mail',
+      // store: true
+    }, {
+      type: 'input',
       name: 'companyName',
       message: 'Comany Name',
       // store: true
