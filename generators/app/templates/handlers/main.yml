@@ -1,2 +1,6 @@
 ---
 # handlers for <%= props.name %>
+
+# - name: reload systemd
+#   systemd:
+#     daemon_reload: true

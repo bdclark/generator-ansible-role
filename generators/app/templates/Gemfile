@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'kitchen-ansiblepush'
-gem 'kitchen-vagrant'
 gem 'test-kitchen'
+gem 'kitchen-ansiblepush'
+gem 'kitchen-docker'
+gem 'kitchen-inspec'

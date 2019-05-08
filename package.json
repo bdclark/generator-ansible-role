@@ -1,12 +1,11 @@
 {
   "name": "generator-ansible-role",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Yeoman generator to create Ansible role",
-  "homepage": "",
+  "homepage": "https://github.com/bdclark/generator-ansible-role",
   "author": {
     "name": "Brian Clark",
-    "email": "brian@clark.zone",
-    "url": "https://github.com/bdclark"
+    "email": "brian@clark.zone"
   },
   "files": [
     "generators"
